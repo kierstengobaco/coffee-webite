@@ -1,0 +1,13 @@
+.fixed-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: 745149;
+  color: white;
+  text-align: center;
+}
+
+.top-title{
+    color:white;
+}
